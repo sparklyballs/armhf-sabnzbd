@@ -16,5 +16,5 @@ rm -f /tmp/sabnzbd.tar.gz
 fi
 
 # permissions
-chown -R mab:mab /app/sabnzbd
-chown mab:mab /downloads /incomplete-downloads
+chown -R abc:abc /app/sabnzbd
+chown abc:abc /downloads /incomplete-downloads
